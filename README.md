@@ -1,1 +1,1 @@
-# Other-Prejects
+# Other-Projects
