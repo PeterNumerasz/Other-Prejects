@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1593299466 source:c:\users\numip\documents\programs\c++\atmosphere\main.cpp
+	<iostream>
+	<fstream>
+	"Atmosphere.h"
+
+1593299466 c:\users\numip\documents\programs\c++\atmosphere\include\atmosphere.h
+	"Layer.h"
+	<vector>
+
+1593299466 c:\users\numip\documents\programs\c++\atmosphere\include\layer.h
+	<iostream>
+	"Atmosphere.h"
+
+1593299466 source:c:\users\numip\documents\programs\c++\atmosphere\src\atmosphere.cpp
+	"Atmosphere.h"
+
+1593299466 source:c:\users\numip\documents\programs\c++\atmosphere\src\layer.cpp
+	"Layer.h"
+
